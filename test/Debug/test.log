@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(36,5): warning MSB4211: Свойству "IntermediateOutputPath" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(337,5): warning MSB4211: Свойству "CleanFile" в первый раз присваивается значение, но оно уже было использовано в "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)".
+cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  dns.c
+D:\2 курс\Системное программирование\test\dns.c(41,21): warning C4090: функция: разные квалификаторы "const"
+D:\2 курс\Системное программирование\test\dns.c(42,23): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+D:\2 курс\Системное программирование\test\dns.c(47,8): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+D:\2 курс\Системное программирование\test\dns.c(42,1): warning C4047: инициализация: "node *" отличается по уровням косвенного обращения от "int"
+D:\2 курс\Системное программирование\test\dns.c(76,13): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+D:\2 курс\Системное программирование\test\dns.c(93,11): warning C4047: return: "DNSHandle" отличается по уровням косвенного обращения от "node **"
+D:\2 курс\Системное программирование\test\dns.c(87,1): warning C4047: инициализация: "node **" отличается по уровням косвенного обращения от "int"
+D:\2 курс\Системное программирование\test\dns.c(109,15): warning C4477: "sscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "int **"
+D:\2 курс\Системное программирование\test\dns.c(109,15): warning C4477: "sscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "2" имеет тип "int **"
+D:\2 курс\Системное программирование\test\dns.c(109,15): warning C4477: "sscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "3" имеет тип "int **"
+D:\2 курс\Системное программирование\test\dns.c(109,15): warning C4477: "sscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "int **"
+D:\2 курс\Системное программирование\test\dns.c(110,16): warning C4013: CreateIP: нет определения; предполагается "extern" с возвратом типа "int"
+D:\2 курс\Системное программирование\test\dns.c(116,110): warning C4142: "CreateIP": неопасное переопределение типа
+D:\2 курс\Системное программирование\test\dns.c(125,42): warning C4090: функция: разные квалификаторы "const"
+D:\2 курс\Системное программирование\test\dns.c(139,8): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  test.vcxproj -> D:\2 курс\Системное программирование\test\Debug\test.exe
