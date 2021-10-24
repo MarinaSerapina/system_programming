@@ -1,0 +1,4 @@
+D:\JetBrains\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" D:\programming\projects\system-programming\lab1_fw
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/programming/projects/system-programming/lab1_fw/cmake-build-release-visual-studio

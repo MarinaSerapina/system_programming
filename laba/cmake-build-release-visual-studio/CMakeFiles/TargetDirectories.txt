@@ -1,0 +1,3 @@
+D:/programming/projects/system-programming/lab1_fw/cmake-build-release-visual-studio/CMakeFiles/lab1_fw.dir
+D:/programming/projects/system-programming/lab1_fw/cmake-build-release-visual-studio/CMakeFiles/edit_cache.dir
+D:/programming/projects/system-programming/lab1_fw/cmake-build-release-visual-studio/CMakeFiles/rebuild_cache.dir
