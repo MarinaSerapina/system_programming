@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/programming/projects/system-programming/lab1_fw/splpv1.c
+splpv1.h
+D:/programming/projects/system-programming/lab1_fw/splpv1.h
+string.h
+-
+
+D:/programming/projects/system-programming/lab1_fw/splpv1.h
+
